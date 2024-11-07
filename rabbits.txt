@@ -1,0 +1,22 @@
+Hank|Flemish Giant|Really a good bun|Freindly and nice|Giant|10|Grey
+Tim|English Lop|Bad temper|Trying their best|Small|5|White
+Dominic|Mini Lop|Really a good bun|Freindly and nice|Giant|10|Grey
+Maria|Flemish Giant|Really a good bun|Freindly and nice|Giant|10|Motled
+Zeb|Holland Lop|Really a good bun|Freindly and nice|Giant|10|Tan
+Angel|Lionhead|Really a good bun|Freindly and nice|Giant|10|Blue
+Bill|Angora|Really a good bun|Freindly and nice|Giant|10|Black
+Hank|Armenian Hare|Really a good bun|Freindly and nice|Medium|10|White
+Hank|Blanc de Hotot|Really a good bun|Freindly and nice|Giant|10|Orange
+Sophia|Flemish Giant|Really a good bun|Freindly and nice|Giant|10|Grey
+Jim|English Lop|Bad temper|Trying their best|Small|5|White
+Fluffball|Mini Lop|Really a good bun|Freindly and nice|Giant|10|Grey
+Xavier|Flemish Giant|Really a good bun|Freindly and nice|Giant|10|Motled
+Zeb|Silver Marten|Really a good bun|Freindly and nice|Giant|10|Tan
+Thumper|Lionhead|Really a good bun|Freindly and nice|Giant|10|Blue
+Hank|Armenian Hare|Really a good bun|Freindly and nice|Medium|10|White
+Hank|Blanc de Hotot|Really a good bun|Freindly and nice|Giant|10|Orange
+Max|Angora|Really a good bun|Freindly and nice|Giant|10|Black
+Ronaldo|Armenian Hare|Really a good bun|Freindly and nice|Medium|10|White
+Cthulhu|Blanc de Hotot|Evil menace|Freindly and nice|Fryer|10|Orange
+Hank|Armenian Hare|Really a good bun|Freindly and nice|Medium|10|White
+Hank|Blanc de Hotot|Really a good bun|Freindly and nice|Giant|10|Orange
